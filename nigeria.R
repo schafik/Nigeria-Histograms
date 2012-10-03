@@ -31,9 +31,6 @@ w3 <- water3 [c('mylga', 'mylga_state', 'sector')]
 
 lga <- rbind(h,e,l,w,h2,h3,e2,e3,l2,l3,w2,w3)
 
-
-
-
 #####CLEANING #####
 
 #cleaning states from erroneous values
