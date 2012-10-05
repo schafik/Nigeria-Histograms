@@ -75,3 +75,4 @@ draw <- function(fname="state_survey_data.pdf", testmylga_state=NULL) {
 draw()
 
 write.csv(cleanlga, "cleanlga.csv", row.names=FALSE)
+
